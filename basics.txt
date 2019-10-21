@@ -1,0 +1,18 @@
+Javascript
+
+Arrays
+let values = [0,1,2];
+values.length
+values.push(5);
+let x = values.pop();
+let x = vlaues.shift(); //removes the first elt in the array and shifts all the rest to the left.
+values.splice(index, howManyItemsToDelete, listOfNewItemsToInsert);
+
+Objects
+let person = {
+	name: "John",
+	age: 32,
+	partTime:false
+};
+
+Links : PluralSight JavaScript: Getting Started by Mark Zamoyta
