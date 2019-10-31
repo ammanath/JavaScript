@@ -16,3 +16,4 @@ let person = {
 };
 
 Links : PluralSight JavaScript: Getting Started by Mark Zamoyta
+Book : Eloquent JavaScript - Pg 25 Binding Names
